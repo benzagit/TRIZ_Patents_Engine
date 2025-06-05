@@ -7,7 +7,7 @@ NUM_PATENTS = 10  # Number of patents to download
 TOPIC = "microprocessors"  # Change this to your desired topic
 SEARCH_QUERY = f'microprocessor OR "{TOPIC}"'  # Broadened query to catch variations
 SAVE_DIR = r"C:\venv\.venv\serpapi_pdfs"  # Target directory for saving PDFs
-API_KEY = "4d390a763dbfaac40be9bfb4193df24d8c9568c66cda999f23e8016e4196e5c8"  # Your SerpAPI key
+API_KEY = ""  # Your SerpAPI key
 
 # Create the save directory if it doesn't exist
 if not os.path.exists(SAVE_DIR):

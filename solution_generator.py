@@ -32,7 +32,7 @@ except Exception as e:
     nlp = None
 
 # NVIDIA Nemotron 70B API Setup
-API_KEY = "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"  # Replace with your actual API key
+API_KEY = ""  # Replace with your actual API key
 BASE_URL = "https://integrate.api.nvidia.com/v1"
 headers = {"Authorization": f"Bearer {API_KEY}", "Content-Type": "application/json"}
 

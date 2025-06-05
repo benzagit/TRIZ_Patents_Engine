@@ -1,0 +1,1 @@
+-e "venv/\n__pycache__/\n*.pyc\n*.pdf\nall_patents_corpus.csv\nserpapi_pdfs/\npatents/" 

@@ -1,0 +1,15 @@
+serpapi
+requests
+beautifulsoup4
+fitz==0.0.1.dev2  # PyMuPDF
+easyocr
+pandas
+streamlit
+sentence-transformers
+faiss-cpu
+spacy
+plotly
+nltk
+textblob
+numpy
+PyPDF2

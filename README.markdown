@@ -29,6 +29,7 @@ pip install -r requirements.txt
 Create a `requirements.txt` file with the following content:
 ```
 serpapi
+google-search-results
 requests
 beautifulsoup4
 fitz==0.0.1.dev2  # PyMuPDF

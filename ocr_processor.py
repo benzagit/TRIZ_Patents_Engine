@@ -40,7 +40,7 @@ def extract_text_from_pdf_images(pdf_path):
         return []
 
 # Directory with your PDFs
-pdf_folder = r"C:\venv\.venv\patents"  # Adjust if needed
+pdf_folder = r"C:\venv\.venv\serpapi_pdfs"  # Adjust if needed
 output_csv = "all_patents_corpus.csv"
 
 # List to store results

@@ -1,5 +1,5 @@
 # TRIZ Patent Innovation Engine
-
+test
 ## Overview
 This project implements a TRIZ (Theory of Inventive Problem Solving)-based innovation engine to analyze patent documents and generate novel solutions for technical contradictions. It integrates three Python scripts to fetch patent data using the SERP API, extract text via OCR, and deploy a Streamlit application for solution generation, evaluation, and visualization. The system leverages advanced APIs (SERP API, NVIDIA Nemotron 70B) and OCR technology (EasyOCR) to support innovation, with a focus on fields like microprocessor technology.
 

@@ -14,3 +14,4 @@ nltk
 textblob
 numpy
 PyPDF2
+frontend

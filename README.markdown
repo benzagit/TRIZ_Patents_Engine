@@ -41,6 +41,7 @@ sentence-transformers
 faiss-cpu
 spacy
 plotly
+PyMuPDF
 nltk
 textblob
 numpy
